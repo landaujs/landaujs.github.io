@@ -17,7 +17,7 @@
   "scripts": {
     "build": "yarn run build:target && gatsby build",
     "build:target": "cd target && git checkout 16bd2429e875194384a960462105b3cf53b1dcdf && ../node_modules/.bin/react-docgen src -o ../docgen-output.json",
-    "deploy": "yarn run build && gh-pages -d public",
+    "deploy": "yarn run build && gh-pages -d public -b master",
     "develop": "gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\"",
     "test": "echo \"Error: no test specified\" && exit 1"
