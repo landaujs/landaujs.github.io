@@ -1,0 +1,118 @@
+{
+  "assetsByChunkName": {
+    "path---reference": [
+      "path---reference-a0e39f21c11f6a62c5ab.js",
+      "path---reference-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-46d8bb3ae1f71209d37c.js",
+      "component---src-pages-index-js-46d8bb3ae1f71209d37c.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---reference-components-sphere": [
+      "path---reference-components-sphere-bf281887e7fb3110f94b.js",
+      "path---reference-components-sphere-bf281887e7fb3110f94b.js.map"
+    ],
+    "path---reference-components-translate": [
+      "path---reference-components-translate-d0dce7a542f18843f5a9.js",
+      "path---reference-components-translate-d0dce7a542f18843f5a9.js.map"
+    ],
+    "path---reference-components-cube": [
+      "path---reference-components-cube-50cb2c2628091016ec4f.js",
+      "path---reference-components-cube-50cb2c2628091016ec4f.js.map"
+    ],
+    "path---reference-components-scale": [
+      "path---reference-components-scale-64b2af2ea5b4720b912e.js",
+      "path---reference-components-scale-64b2af2ea5b4720b912e.js.map"
+    ],
+    "path---reference-components-center": [
+      "path---reference-components-center-bbbe4ea1ca0665cb4d09.js",
+      "path---reference-components-center-bbbe4ea1ca0665cb4d09.js.map"
+    ],
+    "path---reference-components-difference": [
+      "path---reference-components-difference-55c0a60fb98eac4f9c80.js",
+      "path---reference-components-difference-55c0a60fb98eac4f9c80.js.map"
+    ],
+    "path---reference-components-geodesic-sphere": [
+      "path---reference-components-geodesic-sphere-9bb83b1e7c3c530510e2.js",
+      "path---reference-components-geodesic-sphere-9bb83b1e7c3c530510e2.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-fe7a7f426b9e607fae34.js",
+      "component---src-layouts-index-js-fe7a7f426b9e607fae34.js.map"
+    ],
+    "component---src-pages-reference-js": [
+      "component---src-pages-reference-js-e718fbb74d59a55a8010.js",
+      "component---src-pages-reference-js-e718fbb74d59a55a8010.js.map"
+    ],
+    "path---reference-components-torus": [
+      "path---reference-components-torus-4eb74f4e9715b8368a53.js",
+      "path---reference-components-torus-4eb74f4e9715b8368a53.js.map"
+    ],
+    "path---reference-components-cylinder": [
+      "path---reference-components-cylinder-2832d5b61c6b895df580.js",
+      "path---reference-components-cylinder-2832d5b61c6b895df580.js.map"
+    ],
+    "component---src-generated-pages-reference-js": [
+      "component---src-generated-pages-reference-js-b60176f5696db3befb11.js",
+      "component---src-generated-pages-reference-js-b60176f5696db3befb11.js.map"
+    ],
+    "path---page-2": [
+      "path---page-2-a0e39f21c11f6a62c5ab.js",
+      "path---page-2-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---reference-components-union": [
+      "path---reference-components-union-7a39805fa53f4539b8bd.js",
+      "path---reference-components-union-7a39805fa53f4539b8bd.js.map"
+    ],
+    "path---reference-components-mirror": [
+      "path---reference-components-mirror-3f36f0c58ce8ccdd2cae.js",
+      "path---reference-components-mirror-3f36f0c58ce8ccdd2cae.js.map"
+    ],
+    "path---reference-components-rotate": [
+      "path---reference-components-rotate-2a819410c3f408918feb.js",
+      "path---reference-components-rotate-2a819410c3f408918feb.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-8b186acffa48646bd616.js",
+      "commons-8b186acffa48646bd616.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---reference-components-landau-element": [
+      "path---reference-components-landau-element-a320223615cc1ca63649.js",
+      "path---reference-components-landau-element-a320223615cc1ca63649.js.map"
+    ],
+    "component---src-pages-page-2-js": [
+      "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js",
+      "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js.map"
+    ],
+    "app": [
+      "app-802630dd86592c6e6d53.js",
+      "build-js-styles.css",
+      "app-802630dd86592c6e6d53.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---reference-components-polyhedron": [
+      "path---reference-components-polyhedron-4a2418e6651a13092540.js",
+      "path---reference-components-polyhedron-4a2418e6651a13092540.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}

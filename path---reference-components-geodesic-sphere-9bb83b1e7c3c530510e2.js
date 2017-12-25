@@ -1,0 +1,2 @@
+webpackJsonp([0x61b01a0a5b5a],{319:function(e,t){e.exports={pathContext:{path:"/reference/components/GeodesicSphere",title:"GeodesicSphere",data:{description:"",displayName:"GeodesicSphere",methods:[]}}}}});
+//# sourceMappingURL=path---reference-components-geodesic-sphere-9bb83b1e7c3c530510e2.js.map

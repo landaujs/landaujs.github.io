@@ -1,0 +1,2 @@
+webpackJsonp([0x6a57ac27c3f3],{326:function(e,t){e.exports={pathContext:{path:"/reference/components/Torus",title:"Torus",data:{description:"",displayName:"Torus",methods:[]}}}}});
+//# sourceMappingURL=path---reference-components-torus-4eb74f4e9715b8368a53.js.map

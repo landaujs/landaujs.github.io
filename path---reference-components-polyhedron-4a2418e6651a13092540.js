@@ -1,0 +1,2 @@
+webpackJsonp([0xd52df97bb378],{322:function(e,o){e.exports={pathContext:{path:"/reference/components/Polyhedron",title:"Polyhedron",data:{description:"",displayName:"Polyhedron",methods:[]}}}}});
+//# sourceMappingURL=path---reference-components-polyhedron-4a2418e6651a13092540.js.map
